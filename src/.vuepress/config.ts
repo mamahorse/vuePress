@@ -8,6 +8,8 @@ export default defineUserConfig<DefaultThemeOptions>({
 
   // 主题和它的配置
   theme: '@vuepress/theme-default',
+  base:'/vuePress/',
+  dest:'dist',
   themeConfig: {
     logo: '/images/logo.jpg',
     sidebar: {
