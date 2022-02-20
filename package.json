@@ -1,0 +1,15 @@
+{
+  "name": "vuePressBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "vuepress": "^2.0.0-beta.35",
+    "yarn": "^1.22.17"
+  }
+}
