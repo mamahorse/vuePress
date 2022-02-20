@@ -1,4 +1,4 @@
-import{r,o as c,c as o,a as e,w as a,F as i,b as s,d as n}from"./app.0750cf94.js";import{_ as p}from"./plugin-vue_export-helper.21dcd24c.js";const u={},m=s("h3",{id:"as-easy-as-1-2-3",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#as-easy-as-1-2-3","aria-hidden":"true"},"#"),n(" As Easy as 1, 2, 3")],-1),b=s("div",{class:"language-bash ext-sh line-numbers-mode"},[s("pre",{class:"language-bash"},[s("code",null,[s("span",{class:"token comment"},"# install in your project"),n(`
+import{r,o as c,c as o,a as e,w as a,F as i,b as s,d as n}from"./app.55708ed6.js";import{_ as p}from"./plugin-vue_export-helper.21dcd24c.js";const u={},m=s("h3",{id:"as-easy-as-1-2-3",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#as-easy-as-1-2-3","aria-hidden":"true"},"#"),n(" As Easy as 1, 2, 3")],-1),b=s("div",{class:"language-bash ext-sh line-numbers-mode"},[s("pre",{class:"language-bash"},[s("code",null,[s("span",{class:"token comment"},"# install in your project"),n(`
 `),s("span",{class:"token function"},"yarn"),n(),s("span",{class:"token function"},"add"),n(` -D vuepress@next
 
 `),s("span",{class:"token comment"},"# create a markdown file"),n(`
